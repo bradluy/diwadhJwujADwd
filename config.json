@@ -1,0 +1,11 @@
+{
+    "twoCaptcha": "bae8c43f860c6c09c314e2595a17da5e",
+    "accounts": [
+        {
+            "username": "bradluys",
+            "authToken": "86cda177e0f47fb253e19b254e4e896c85497680436f7bfe5fc2a8328462dfb91fe605bb5c79a374019bcf47ae9dfc908e695a6fb20a0cb9c499dbb3830244ed",
+            "session": "s%3Aeh1uUs8iZLiZu15FDG1qgyCTuLP48pDZ.JzvjKftECvHttRpvbGbO6CzjxFTd2hEt9mgzi8dddrI",
+            "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36"
+        }
+    ]
+}
